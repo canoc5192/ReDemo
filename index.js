@@ -1,3 +1,3 @@
-import a from "index2.js";
+import chuoi from "index2.js";
 
-console.log(a);
+console.log("a");

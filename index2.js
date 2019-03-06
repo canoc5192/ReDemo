@@ -1,2 +1,3 @@
-var a= "a";
-export {a};
+var chuoi= "abcbcbcb";
+
+export default chuoi;
